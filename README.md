@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+Minecraft Forge is not just a mod, but a "mod of all mods". This is a program that allows mod builders to use all the richness of tools, and players to install various mods without fear that they will conflict. Did you know that before ModLoader, Forge's predecessor, appeared, those who wanted to use two or more modifications at the same time had to combine them manually, combining the code line by line?
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+Minecraft Forge includes not only the classic Minecraft Coder Pack toolkit, but also ForgeModLoader, a program that allows you to install and remove mods with one button without fear of conflict. He also keeps track of the recipes: if some ingredients are named differently in different versions, the game will still understand what is appropriate.
